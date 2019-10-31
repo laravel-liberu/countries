@@ -1,0 +1,47 @@
+{
+    "name": "laravel-enso/countries",
+    "description": "Countries for Laravel Enso",
+    "keywords": [
+        "laravel-enso",
+        "countries",
+        "manager",
+        "enso"
+    ],
+    "type": "library",
+    "require": {
+        "laravel-enso/core": "4.5.*",
+        "laravel-enso/enums": "1.1.*",
+        "laravel-enso/forms": "3.2.*",
+        "laravel-enso/helpers": "1.13.*",
+        "laravel-enso/migrator": "1.0.*",
+        "laravel-enso/rememberable": "2.1.*",
+        "laravel-enso/select": "3.2.*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mihai",
+            "email": "mihai.ocneanu@gmail.com",
+            "role": "Developer"
+        },
+        {
+            "name": "Adrian Ocneanu",
+            "email": "aocneanu@gmail.com",
+            "homepage": "https://laravel-enso.com",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "LaravelEnso\\Countries\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "LaravelEnso\\Countries\\AppServiceProvider"
+            ],
+            "aliases": {}
+        }
+    }
+}
