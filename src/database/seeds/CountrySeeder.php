@@ -6,7 +6,7 @@ use LaravelEnso\Countries\app\Models\Country;
 
 class CountrySeeder extends Seeder
 {
-    const JSON = __DIR__.'../countries.json';
+    const JSON = __DIR__.'/../../vendor/laravel-enso/countries/src/database/countries.json';
 
     public function run()
     {
