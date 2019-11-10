@@ -10,7 +10,7 @@ class Country extends JsonResource
     {
         return [
             'id' => $this->id,
-            'country' => $this->name,
+            'name' => $this->name,
         ];
     }
 }
