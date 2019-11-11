@@ -3,9 +3,9 @@
 namespace LaravelEnso\Countries\app\Http\Controllers;
 
 use Illuminate\Routing\Controller;
+use LaravelEnso\Countries\app\Http\Resources\Country as Resource;
 use LaravelEnso\Countries\app\Models\Country;
 use LaravelEnso\Select\app\Traits\OptionsBuilder;
-use LaravelEnso\Countries\app\Http\Resources\Country as Resource;
 
 class Options extends Controller
 {
@@ -14,4 +14,6 @@ class Options extends Controller
     protected $model = Country::class;
 
     protected $resource = Resource::class;
+
+    protected $queryAttributes = ['name', 'iso_3166_3'];
 }
