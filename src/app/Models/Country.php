@@ -3,12 +3,11 @@
 namespace LaravelEnso\Countries\app\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use LaravelEnso\DynamicMethods\app\Traits\Relations;
 use LaravelEnso\Rememberable\app\Traits\Rememberable;
 
 class Country extends Model
 {
-    use Relations, Rememberable;
+    use Rememberable;
 
     protected $fillable = [
         'name', 'iso_3166_2', 'iso_3166_3', 'capital', 'citizenship', 'country_code',
