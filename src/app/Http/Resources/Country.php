@@ -11,6 +11,7 @@ class Country extends JsonResource
         return [
             'id' => $this->id,
             'name' => $this->name,
+            'currencyCode' => $this->currency_code,
         ];
     }
 }
