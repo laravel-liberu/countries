@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Countries\app\Models;
+namespace LaravelEnso\Countries\App\Models;
 
 use Illuminate\Database\Eloquent\Model;
-use LaravelEnso\Rememberable\app\Traits\Rememberable;
+use LaravelEnso\Rememberable\App\Traits\Rememberable;
 
 class Country extends Model
 {

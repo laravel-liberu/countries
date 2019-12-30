@@ -1,10 +1,11 @@
 <?php
 
-use LaravelEnso\Migrator\app\Database\Migration;
+use LaravelEnso\Migrator\App\Database\Migration;
+use LaravelEnso\Permissions\App\Enums\Types;
 
 class CreateStructureForCountries extends Migration
 {
     protected $permissions = [
-        ['name' => 'core.countries.options', 'description' => 'Get country options for select', 'type' => 0, 'is_default' => false],
+        ['name' => 'core.countries.options', 'description' => 'Get country options for select', 'type' => Types::Read, 'is_default' => false],
     ];
 }
