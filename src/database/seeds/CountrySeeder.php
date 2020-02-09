@@ -1,14 +1,13 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use Illuminate\Support\Collection;
 use Illuminate\Support\Facades\App;
-use Illuminate\Support\Facades\File;
 use LaravelEnso\Countries\App\Models\Country;
+use LaravelEnso\Helpers\App\Classes\JsonParser;
 
 class CountrySeeder extends Seeder
 {
-    const JSON = __DIR__.'/../../vendor/laravel-enso/countries/src/database/countries.json';
+    private const Json = __DIR__.'/../../vendor/laravel-enso/countries/src/database/countries.json';
 
     public function run()
     {
@@ -18,7 +17,7 @@ class CountrySeeder extends Seeder
 
     public function countries()
     {
-        return (new Collection(json_decode(File::get(self::JSON), true)))
+        return (new JsonParser(self::Json))->collection()
             ->when(App::environment('testing'), fn ($countries) => $countries->slice(0, 10));
     }
 }
