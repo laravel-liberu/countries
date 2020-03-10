@@ -11,7 +11,7 @@
     "require": {
         "laravel-enso/core": "4.8.*",
         "laravel-enso/enums": "1.2.*",
-        "laravel-enso/helpers": "1.15.4",
+        "laravel-enso/helpers": "1.15.*",
         "laravel-enso/migrator": "1.1.*",
         "laravel-enso/rememberable": "2.2.*",
         "laravel-enso/select": "3.3.*"
