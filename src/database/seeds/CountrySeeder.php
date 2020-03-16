@@ -3,7 +3,7 @@
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\App;
 use LaravelEnso\Countries\App\Models\Country;
-use LaravelEnso\Helpers\App\Classes\JsonParser;
+use LaravelEnso\Helpers\App\Classes\JsonReader;
 
 class CountrySeeder extends Seeder
 {
@@ -17,7 +17,7 @@ class CountrySeeder extends Seeder
 
     public function countries()
     {
-        return (new JsonParser(self::Json))->collection()
+        return (new JsonReader(self::Json))->collection()
             ->when(App::environment('testing'), fn ($countries) => $countries->slice(0, 10));
     }
 }
