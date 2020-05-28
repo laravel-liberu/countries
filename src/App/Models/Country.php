@@ -17,4 +17,13 @@ class Country extends Model
         'currency_decimals', 'full_name', 'region_code', 'sub_region_code',
         'eea', 'calling_code', 'flag',
     ];
+
+    public function regionLabel(): string
+    {
+        switch ($this->id) {
+            case 184: return 'County';
+            case 240: return 'State';
+            default: return 'Region';
+        }
+    }
 }
