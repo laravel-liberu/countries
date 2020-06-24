@@ -12,4 +12,13 @@ class Country extends Model
     use AvoidsDeletionConflicts, Relations, Rememberable;
 
     protected $guarded = ['id'];
+
+    public function regionLabel(): string
+    {
+        switch ($this->id) {
+            case 184: return 'County';
+            case 240: return 'State';
+            default: return 'Region';
+        }
+    }
 }
