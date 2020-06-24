@@ -3,7 +3,7 @@
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\App;
 use LaravelEnso\Countries\Models\Country;
-use LaravelEnso\Helpers\Classes\JsonReader;
+use LaravelEnso\Helpers\Services\JsonReader;
 
 class CountrySeeder extends Seeder
 {
