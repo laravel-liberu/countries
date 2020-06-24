@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Countries\App\Http\Resources;
+namespace LaravelEnso\Countries\Http\Resources;
 
 use Illuminate\Http\Resources\Json\JsonResource;
 

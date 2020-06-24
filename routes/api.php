@@ -2,9 +2,9 @@
 
 use Illuminate\Support\Facades\Route;
 
-Route::middleware(['web', 'auth', 'core'])
+Route::middleware(['api', 'auth', 'core'])
     ->prefix('api/core/countries')->as('core.countries.')
-    ->namespace('LaravelEnso\Countries\App\Http\Controllers')
+    ->namespace('LaravelEnso\Countries\Http\Controllers')
     ->group(function () {
         Route::get('options', 'Options')->name('options');
     });

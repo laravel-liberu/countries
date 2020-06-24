@@ -2,12 +2,12 @@
 
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\App;
-use LaravelEnso\Countries\App\Models\Country;
-use LaravelEnso\Helpers\App\Classes\JsonReader;
+use LaravelEnso\Countries\Models\Country;
+use LaravelEnso\Helpers\Classes\JsonReader;
 
 class CountrySeeder extends Seeder
 {
-    private const Json = __DIR__.'/../../vendor/laravel-enso/countries/src/database/countries.json';
+    private const Json = __DIR__.'/../../vendor/laravel-enso/countries/database/countries.json';
 
     public function run()
     {
