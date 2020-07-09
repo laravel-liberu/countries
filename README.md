@@ -1,6 +1,6 @@
 # Countries
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c7404086a15a4db6b2080b1d09b0688a)](https://www.codacy.com/app/laravel-enso/countries?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/countries&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/72390cf13f054c53a19acccb6ac6cef0)](https://www.codacy.com/gh/laravel-enso/countries?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=laravel-enso/countries&amp;utm_campaign=Badge_Grade) 
 [![StyleCI](https://github.styleci.io/repos/113445673/shield?branch=master)](https://github.styleci.io/repos/113445673)
 [![License](https://poser.pugx.org/laravel-enso/countries/license)](https://packagist.org/packages/laravel-enso/countries)
 [![Total Downloads](https://poser.pugx.org/laravel-enso/countries/downloads)](https://packagist.org/packages/laravel-enso/countries)
