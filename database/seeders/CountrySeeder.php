@@ -1,5 +1,7 @@
 <?php
 
+namespace LaravelEnso\Countries\Database\Seeders;
+
 use Illuminate\Database\Seeder;
 use Illuminate\Support\Facades\App;
 use LaravelEnso\Countries\Models\Country;
