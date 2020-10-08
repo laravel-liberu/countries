@@ -9,7 +9,7 @@ use LaravelEnso\Helpers\Services\JsonReader;
 
 class CountrySeeder extends Seeder
 {
-    private const Json = __DIR__.'/../../vendor/laravel-enso/countries/database/countries.json';
+    private const Json = 'vendor/laravel-enso/countries/database/countries.json';
 
     public function run()
     {
@@ -19,7 +19,7 @@ class CountrySeeder extends Seeder
 
     public function countries()
     {
-        return (new JsonReader(self::Json))->collection()
+        return (new JsonReader(base_path(self::Json)))->collection()
             ->when(App::environment('testing'), fn ($countries) => $countries->slice(0, 10));
     }
 }
