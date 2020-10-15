@@ -34,7 +34,8 @@
     "autoload": {
         "psr-4": {
             "LaravelEnso\\Countries\\": "src/",
-            "LaravelEnso\\Countries\\Database\\Seeders\\": "database/seeders/"
+            "LaravelEnso\\Countries\\Database\\Seeders\\": "database/seeders/",
+            "LaravelEnso\\Countries\\Database\\Factories\\": "database/factories/"
         }
     },
     "extra": {
