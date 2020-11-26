@@ -1,5 +1,5 @@
 {
-    "642": {
+    {
         "capital": "Bucharest",
         "citizenship": "Romanian",
         "country_code": "642",
@@ -19,7 +19,7 @@
         "flag": "RO.png",
         "is_active": true
     },
-    "4": {
+    {
         "capital": "Kabul",
         "citizenship": "Afghan",
         "country_code": "004",
@@ -39,7 +39,7 @@
         "flag": "AF.png",
         "is_active": true
     },
-    "8": {
+    {
         "capital": "Tirana",
         "citizenship": "Albanian",
         "country_code": "008",
@@ -59,7 +59,7 @@
         "flag": "AL.png",
         "is_active": true
     },
-    "10": {
+    {
         "capital": "Antartica",
         "citizenship": "of Antartica",
         "country_code": "010",
@@ -79,7 +79,7 @@
         "flag": "AQ.png",
         "is_active": true
     },
-    "12": {
+    {
         "capital": "Algiers",
         "citizenship": "Algerian",
         "country_code": "012",
@@ -99,7 +99,7 @@
         "flag": "DZ.png",
         "is_active": true
     },
-    "16": {
+    {
         "capital": "Pago Pago",
         "citizenship": "American Samoan",
         "country_code": "016",
@@ -119,7 +119,7 @@
         "flag": "AS.png",
         "is_active": true
     },
-    "20": {
+    {
         "capital": "Andorra la Vella",
         "citizenship": "Andorran",
         "country_code": "020",
@@ -139,7 +139,7 @@
         "flag": "AD.png",
         "is_active": true
     },
-    "24": {
+    {
         "capital": "Luanda",
         "citizenship": "Angolan",
         "country_code": "024",
@@ -159,7 +159,7 @@
         "flag": "AO.png",
         "is_active": true
     },
-    "28": {
+    {
         "capital": "St John\u2019s",
         "citizenship": "of Antigua and Barbuda",
         "country_code": "028",
@@ -179,7 +179,7 @@
         "flag": "AG.png",
         "is_active": true
     },
-    "31": {
+    {
         "capital": "Baku",
         "citizenship": "Azerbaijani",
         "country_code": "031",
@@ -199,7 +199,7 @@
         "flag": "AZ.png",
         "is_active": true
     },
-    "32": {
+    {
         "capital": "Buenos Aires",
         "citizenship": "Argentinian",
         "country_code": "032",
@@ -219,7 +219,7 @@
         "flag": "AR.png",
         "is_active": true
     },
-    "36": {
+    {
         "capital": "Canberra",
         "citizenship": "Australian",
         "country_code": "036",
@@ -239,7 +239,7 @@
         "flag": "AU.png",
         "is_active": true
     },
-    "40": {
+    {
         "capital": "Vienna",
         "citizenship": "Austrian",
         "country_code": "040",
@@ -259,7 +259,7 @@
         "flag": "AT.png",
         "is_active": true
     },
-    "44": {
+    {
         "capital": "Nassau",
         "citizenship": "Bahamian",
         "country_code": "044",
@@ -279,7 +279,7 @@
         "flag": "BS.png",
         "is_active": true
     },
-    "48": {
+    {
         "capital": "Manama",
         "citizenship": "Bahraini",
         "country_code": "048",
@@ -299,7 +299,7 @@
         "flag": "BH.png",
         "is_active": true
     },
-    "50": {
+    {
         "capital": "Dhaka",
         "citizenship": "Bangladeshi",
         "country_code": "050",
@@ -319,7 +319,7 @@
         "flag": "BD.png",
         "is_active": true
     },
-    "51": {
+    {
         "capital": "Yerevan",
         "citizenship": "Armenian",
         "country_code": "051",
@@ -339,7 +339,7 @@
         "flag": "AM.png",
         "is_active": true
     },
-    "52": {
+    {
         "capital": "Bridgetown",
         "citizenship": "Barbadian",
         "country_code": "052",
@@ -359,7 +359,7 @@
         "flag": "BB.png",
         "is_active": true
     },
-    "56": {
+    {
         "capital": "Brussels",
         "citizenship": "Belgian",
         "country_code": "056",
@@ -379,7 +379,7 @@
         "flag": "BE.png",
         "is_active": true
     },
-    "60": {
+    {
         "capital": "Hamilton",
         "citizenship": "Bermudian",
         "country_code": "060",
@@ -399,7 +399,7 @@
         "flag": "BM.png",
         "is_active": true
     },
-    "64": {
+    {
         "capital": "Thimphu",
         "citizenship": "Bhutanese",
         "country_code": "064",
@@ -419,7 +419,7 @@
         "flag": "BT.png",
         "is_active": true
     },
-    "68": {
+    {
         "capital": "Sucre (BO1)",
         "citizenship": "Bolivian",
         "country_code": "068",
@@ -439,7 +439,7 @@
         "flag": "BO.png",
         "is_active": true
     },
-    "70": {
+    {
         "capital": "Sarajevo",
         "citizenship": "of Bosnia and Herzegovina",
         "country_code": "070",
@@ -459,7 +459,7 @@
         "flag": "BA.png",
         "is_active": true
     },
-    "72": {
+    {
         "capital": "Gaborone",
         "citizenship": "Botswanan",
         "country_code": "072",
@@ -479,7 +479,7 @@
         "flag": "BW.png",
         "is_active": true
     },
-    "74": {
+    {
         "capital": "Bouvet island",
         "citizenship": "of Bouvet island",
         "country_code": "074",
@@ -499,7 +499,7 @@
         "flag": "BV.png",
         "is_active": true
     },
-    "76": {
+    {
         "capital": "Brasilia",
         "citizenship": "Brazilian",
         "country_code": "076",
@@ -519,7 +519,7 @@
         "flag": "BR.png",
         "is_active": true
     },
-    "84": {
+    {
         "capital": "Belmopan",
         "citizenship": "Belizean",
         "country_code": "084",
@@ -539,7 +539,7 @@
         "flag": "BZ.png",
         "is_active": true
     },
-    "86": {
+    {
         "capital": "Diego Garcia",
         "citizenship": "Changosian",
         "country_code": "086",
@@ -559,7 +559,7 @@
         "flag": "IO.png",
         "is_active": true
     },
-    "90": {
+    {
         "capital": "Honiara",
         "citizenship": "Solomon Islander",
         "country_code": "090",
@@ -579,7 +579,7 @@
         "flag": "SB.png",
         "is_active": true
     },
-    "92": {
+    {
         "capital": "Road Town",
         "citizenship": "British Virgin Islander;",
         "country_code": "092",
@@ -599,7 +599,7 @@
         "flag": "VG.png",
         "is_active": true
     },
-    "96": {
+    {
         "capital": "Bandar Seri Begawan",
         "citizenship": "Bruneian",
         "country_code": "096",
@@ -619,7 +619,7 @@
         "flag": "BN.png",
         "is_active": true
     },
-    "100": {
+    {
         "capital": "Sofia",
         "citizenship": "Bulgarian",
         "country_code": "100",
@@ -639,7 +639,7 @@
         "flag": "BG.png",
         "is_active": true
     },
-    "104": {
+    {
         "capital": "Yangon",
         "citizenship": "Burmese",
         "country_code": "104",
@@ -659,7 +659,7 @@
         "flag": "MM.png",
         "is_active": true
     },
-    "108": {
+    {
         "capital": "Bujumbura",
         "citizenship": "Burundian",
         "country_code": "108",
@@ -679,7 +679,7 @@
         "flag": "BI.png",
         "is_active": true
     },
-    "112": {
+    {
         "capital": "Minsk",
         "citizenship": "Belarusian",
         "country_code": "112",
@@ -699,7 +699,7 @@
         "flag": "BY.png",
         "is_active": true
     },
-    "116": {
+    {
         "capital": "Phnom Penh",
         "citizenship": "Cambodian",
         "country_code": "116",
@@ -719,7 +719,7 @@
         "flag": "KH.png",
         "is_active": true
     },
-    "120": {
+    {
         "capital": "Yaound\u00e9",
         "citizenship": "Cameroonian",
         "country_code": "120",
@@ -739,7 +739,7 @@
         "flag": "CM.png",
         "is_active": true
     },
-    "124": {
+    {
         "capital": "Ottawa",
         "citizenship": "Canadian",
         "country_code": "124",
@@ -759,7 +759,7 @@
         "flag": "CA.png",
         "is_active": true
     },
-    "132": {
+    {
         "capital": "Praia",
         "citizenship": "Cape Verdean",
         "country_code": "132",
@@ -779,7 +779,7 @@
         "flag": "CV.png",
         "is_active": true
     },
-    "136": {
+    {
         "capital": "George Town",
         "citizenship": "Caymanian",
         "country_code": "136",
@@ -799,7 +799,7 @@
         "flag": "KY.png",
         "is_active": true
     },
-    "140": {
+    {
         "capital": "Bangui",
         "citizenship": "Central African",
         "country_code": "140",
@@ -819,7 +819,7 @@
         "flag": "CF.png",
         "is_active": true
     },
-    "144": {
+    {
         "capital": "Colombo",
         "citizenship": "Sri Lankan",
         "country_code": "144",
@@ -839,7 +839,7 @@
         "flag": "LK.png",
         "is_active": true
     },
-    "148": {
+    {
         "capital": "N\u2019Djamena",
         "citizenship": "Chadian",
         "country_code": "148",
@@ -859,7 +859,7 @@
         "flag": "TD.png",
         "is_active": true
     },
-    "152": {
+    {
         "capital": "Santiago",
         "citizenship": "Chilean",
         "country_code": "152",
@@ -879,7 +879,7 @@
         "flag": "CL.png",
         "is_active": true
     },
-    "156": {
+    {
         "capital": "Beijing",
         "citizenship": "Chinese",
         "country_code": "156",
@@ -899,7 +899,7 @@
         "flag": "CN.png",
         "is_active": true
     },
-    "158": {
+    {
         "capital": "Taipei",
         "citizenship": "Taiwanese",
         "country_code": "158",
@@ -919,7 +919,7 @@
         "flag": "TW.png",
         "is_active": true
     },
-    "162": {
+    {
         "capital": "Flying Fish Cove",
         "citizenship": "Christmas Islander",
         "country_code": "162",
@@ -939,7 +939,7 @@
         "flag": "CX.png",
         "is_active": true
     },
-    "166": {
+    {
         "capital": "Bantam",
         "citizenship": "Cocos Islander",
         "country_code": "166",
@@ -959,7 +959,7 @@
         "flag": "CC.png",
         "is_active": true
     },
-    "170": {
+    {
         "capital": "Santa Fe de Bogot\u00e1",
         "citizenship": "Colombian",
         "country_code": "170",
@@ -979,7 +979,7 @@
         "flag": "CO.png",
         "is_active": true
     },
-    "174": {
+    {
         "capital": "Moroni",
         "citizenship": "Comorian",
         "country_code": "174",
@@ -999,7 +999,7 @@
         "flag": "KM.png",
         "is_active": true
     },
-    "175": {
+    {
         "capital": "Mamoudzou",
         "citizenship": "Mahorais",
         "country_code": "175",
@@ -1019,7 +1019,7 @@
         "flag": "YT.png",
         "is_active": true
     },
-    "178": {
+    {
         "capital": "Brazzaville",
         "citizenship": "Congolese",
         "country_code": "178",
@@ -1039,7 +1039,7 @@
         "flag": "CG.png",
         "is_active": true
     },
-    "180": {
+    {
         "capital": "Kinshasa",
         "citizenship": "Congolese",
         "country_code": "180",
@@ -1059,7 +1059,7 @@
         "flag": "CD.png",
         "is_active": true
     },
-    "184": {
+    {
         "capital": "Avarua",
         "citizenship": "Cook Islander",
         "country_code": "184",
@@ -1079,7 +1079,7 @@
         "flag": "CK.png",
         "is_active": true
     },
-    "188": {
+    {
         "capital": "San Jos\u00e9",
         "citizenship": "Costa Rican",
         "country_code": "188",
@@ -1099,7 +1099,7 @@
         "flag": "CR.png",
         "is_active": true
     },
-    "191": {
+    {
         "capital": "Zagreb",
         "citizenship": "Croatian",
         "country_code": "191",
@@ -1119,7 +1119,7 @@
         "flag": "HR.png",
         "is_active": true
     },
-    "192": {
+    {
         "capital": "Havana",
         "citizenship": "Cuban",
         "country_code": "192",
@@ -1139,7 +1139,7 @@
         "flag": "CU.png",
         "is_active": true
     },
-    "196": {
+    {
         "capital": "Nicosia",
         "citizenship": "Cypriot",
         "country_code": "196",
@@ -1159,7 +1159,7 @@
         "flag": "CY.png",
         "is_active": true
     },
-    "203": {
+    {
         "capital": "Prague",
         "citizenship": "Czech",
         "country_code": "203",
@@ -1179,7 +1179,7 @@
         "flag": "CZ.png",
         "is_active": true
     },
-    "204": {
+    {
         "capital": "Porto Novo (BJ1)",
         "citizenship": "Beninese",
         "country_code": "204",
@@ -1199,7 +1199,7 @@
         "flag": "BJ.png",
         "is_active": true
     },
-    "208": {
+    {
         "capital": "Copenhagen",
         "citizenship": "Danish",
         "country_code": "208",
@@ -1219,7 +1219,7 @@
         "flag": "DK.png",
         "is_active": true
     },
-    "212": {
+    {
         "capital": "Roseau",
         "citizenship": "Dominican",
         "country_code": "212",
@@ -1239,7 +1239,7 @@
         "flag": "DM.png",
         "is_active": true
     },
-    "214": {
+    {
         "capital": "Santo Domingo",
         "citizenship": "Dominican",
         "country_code": "214",
@@ -1259,7 +1259,7 @@
         "flag": "DO.png",
         "is_active": true
     },
-    "218": {
+    {
         "capital": "Quito",
         "citizenship": "Ecuadorian",
         "country_code": "218",
@@ -1279,7 +1279,7 @@
         "flag": "EC.png",
         "is_active": true
     },
-    "222": {
+    {
         "capital": "San Salvador",
         "citizenship": "Salvadoran",
         "country_code": "222",
@@ -1299,7 +1299,7 @@
         "flag": "SV.png",
         "is_active": true
     },
-    "226": {
+    {
         "capital": "Malabo",
         "citizenship": "Equatorial Guinean",
         "country_code": "226",
@@ -1319,7 +1319,7 @@
         "flag": "GQ.png",
         "is_active": true
     },
-    "231": {
+    {
         "capital": "Addis Ababa",
         "citizenship": "Ethiopian",
         "country_code": "231",
@@ -1339,7 +1339,7 @@
         "flag": "ET.png",
         "is_active": true
     },
-    "232": {
+    {
         "capital": "Asmara",
         "citizenship": "Eritrean",
         "country_code": "232",
@@ -1359,7 +1359,7 @@
         "flag": "ER.png",
         "is_active": true
     },
-    "233": {
+    {
         "capital": "Tallinn",
         "citizenship": "Estonian",
         "country_code": "233",
@@ -1379,7 +1379,7 @@
         "flag": "EE.png",
         "is_active": true
     },
-    "234": {
+    {
         "capital": "T\u00f3rshavn",
         "citizenship": "Faeroese",
         "country_code": "234",
@@ -1399,7 +1399,7 @@
         "flag": "FO.png",
         "is_active": true
     },
-    "238": {
+    {
         "capital": "Stanley",
         "citizenship": "Falkland Islander",
         "country_code": "238",
@@ -1419,7 +1419,7 @@
         "flag": "FK.png",
         "is_active": true
     },
-    "239": {
+    {
         "capital": "King Edward Point (Grytviken)",
         "citizenship": "of South Georgia and the South Sandwich Islands",
         "country_code": "239",
@@ -1439,7 +1439,7 @@
         "flag": "GS.png",
         "is_active": true
     },
-    "242": {
+    {
         "capital": "Suva",
         "citizenship": "Fijian",
         "country_code": "242",
@@ -1459,7 +1459,7 @@
         "flag": "FJ.png",
         "is_active": true
     },
-    "246": {
+    {
         "capital": "Helsinki",
         "citizenship": "Finnish",
         "country_code": "246",
@@ -1479,7 +1479,7 @@
         "flag": "FI.png",
         "is_active": true
     },
-    "248": {
+    {
         "capital": "Mariehamn",
         "citizenship": "\u00c5land Islander",
         "country_code": "248",
@@ -1495,7 +1495,7 @@
         "eea": false,
         "calling_code": "358"
     },
-    "250": {
+    {
         "capital": "Paris",
         "citizenship": "French",
         "country_code": "250",
@@ -1515,7 +1515,7 @@
         "flag": "FR.png",
         "is_active": true
     },
-    "254": {
+    {
         "capital": "Cayenne",
         "citizenship": "Guianese",
         "country_code": "254",
@@ -1535,7 +1535,7 @@
         "flag": "GF.png",
         "is_active": true
     },
-    "258": {
+    {
         "capital": "Papeete",
         "citizenship": "Polynesian",
         "country_code": "258",
@@ -1555,7 +1555,7 @@
         "flag": "PF.png",
         "is_active": true
     },
-    "260": {
+    {
         "capital": "Port-aux-Francais",
         "citizenship": "of French Southern and Antarctic Lands",
         "country_code": "260",
@@ -1575,7 +1575,7 @@
         "flag": "TF.png",
         "is_active": true
     },
-    "262": {
+    {
         "capital": "Djibouti",
         "citizenship": "Djiboutian",
         "country_code": "262",
@@ -1595,7 +1595,7 @@
         "flag": "DJ.png",
         "is_active": true
     },
-    "266": {
+    {
         "capital": "Libreville",
         "citizenship": "Gabonese",
         "country_code": "266",
@@ -1615,7 +1615,7 @@
         "flag": "GA.png",
         "is_active": true
     },
-    "268": {
+    {
         "capital": "Tbilisi",
         "citizenship": "Georgian",
         "country_code": "268",
@@ -1635,7 +1635,7 @@
         "flag": "GE.png",
         "is_active": true
     },
-    "270": {
+    {
         "capital": "Banjul",
         "citizenship": "Gambian",
         "country_code": "270",
@@ -1655,7 +1655,7 @@
         "flag": "GM.png",
         "is_active": true
     },
-    "275": {
+    {
         "citizenship": "Palestinian",
         "country_code": "275",
         "iso_3166_2": "PS",
@@ -1670,7 +1670,7 @@
         "flag": "PS.png",
         "is_active": true
     },
-    "276": {
+    {
         "capital": "Berlin",
         "citizenship": "German",
         "country_code": "276",
@@ -1690,7 +1690,7 @@
         "flag": "DE.png",
         "is_active": true
     },
-    "288": {
+    {
         "capital": "Accra",
         "citizenship": "Ghanaian",
         "country_code": "288",
@@ -1710,7 +1710,7 @@
         "flag": "GH.png",
         "is_active": true
     },
-    "292": {
+    {
         "capital": "Gibraltar",
         "citizenship": "Gibraltarian",
         "country_code": "292",
@@ -1730,7 +1730,7 @@
         "flag": "GI.png",
         "is_active": true
     },
-    "296": {
+    {
         "capital": "Tarawa",
         "citizenship": "Kiribatian",
         "country_code": "296",
@@ -1750,7 +1750,7 @@
         "flag": "KI.png",
         "is_active": true
     },
-    "300": {
+    {
         "capital": "Athens",
         "citizenship": "Greek",
         "country_code": "300",
@@ -1770,7 +1770,7 @@
         "flag": "GR.png",
         "is_active": true
     },
-    "304": {
+    {
         "capital": "Nuuk",
         "citizenship": "Greenlander",
         "country_code": "304",
@@ -1790,7 +1790,7 @@
         "flag": "GL.png",
         "is_active": true
     },
-    "308": {
+    {
         "capital": "St George\u2019s",
         "citizenship": "Grenadian",
         "country_code": "308",
@@ -1810,7 +1810,7 @@
         "flag": "GD.png",
         "is_active": true
     },
-    "312": {
+    {
         "capital": "Basse Terre",
         "citizenship": "Guadeloupean",
         "country_code": "312",
@@ -1830,7 +1830,7 @@
         "flag": "GP.png",
         "is_active": true
     },
-    "316": {
+    {
         "capital": "Aga\u00f1a (Hag\u00e5t\u00f1a)",
         "citizenship": "Guamanian",
         "country_code": "316",
@@ -1850,7 +1850,7 @@
         "flag": "GU.png",
         "is_active": true
     },
-    "320": {
+    {
         "capital": "Guatemala City",
         "citizenship": "Guatemalan",
         "country_code": "320",
@@ -1870,7 +1870,7 @@
         "flag": "GT.png",
         "is_active": true
     },
-    "324": {
+    {
         "capital": "Conakry",
         "citizenship": "Guinean",
         "country_code": "324",
@@ -1890,7 +1890,7 @@
         "flag": "GN.png",
         "is_active": true
     },
-    "328": {
+    {
         "capital": "Georgetown",
         "citizenship": "Guyanese",
         "country_code": "328",
@@ -1910,7 +1910,7 @@
         "flag": "GY.png",
         "is_active": true
     },
-    "332": {
+    {
         "capital": "Port-au-Prince",
         "citizenship": "Haitian",
         "country_code": "332",
@@ -1930,7 +1930,7 @@
         "flag": "HT.png",
         "is_active": true
     },
-    "334": {
+    {
         "capital": "Territory of Heard Island and McDonald Islands",
         "citizenship": "of Territory of Heard Island and McDonald Islands",
         "country_code": "334",
@@ -1950,7 +1950,7 @@
         "flag": "HM.png",
         "is_active": true
     },
-    "336": {
+    {
         "capital": "Vatican City",
         "citizenship": "of the Holy See\/of the Vatican",
         "country_code": "336",
@@ -1970,7 +1970,7 @@
         "flag": "VA.png",
         "is_active": true
     },
-    "340": {
+    {
         "capital": "Tegucigalpa",
         "citizenship": "Honduran",
         "country_code": "340",
@@ -1990,7 +1990,7 @@
         "flag": "HN.png",
         "is_active": true
     },
-    "344": {
+    {
         "capital": "(HK3)",
         "citizenship": "Hong Kong Chinese",
         "country_code": "344",
@@ -2010,7 +2010,7 @@
         "flag": "HK.png",
         "is_active": true
     },
-    "348": {
+    {
         "capital": "Budapest",
         "citizenship": "Hungarian",
         "country_code": "348",
@@ -2030,7 +2030,7 @@
         "flag": "HU.png",
         "is_active": true
     },
-    "352": {
+    {
         "capital": "Reykjavik",
         "citizenship": "Icelander",
         "country_code": "352",
@@ -2050,7 +2050,7 @@
         "flag": "IS.png",
         "is_active": true
     },
-    "356": {
+    {
         "capital": "New Delhi",
         "citizenship": "Indian",
         "country_code": "356",
@@ -2070,7 +2070,7 @@
         "flag": "IN.png",
         "is_active": true
     },
-    "360": {
+    {
         "capital": "Jakarta",
         "citizenship": "Indonesian",
         "country_code": "360",
@@ -2090,7 +2090,7 @@
         "flag": "ID.png",
         "is_active": true
     },
-    "364": {
+    {
         "capital": "Tehran",
         "citizenship": "Iranian",
         "country_code": "364",
@@ -2110,7 +2110,7 @@
         "flag": "IR.png",
         "is_active": true
     },
-    "368": {
+    {
         "capital": "Baghdad",
         "citizenship": "Iraqi",
         "country_code": "368",
@@ -2130,7 +2130,7 @@
         "flag": "IQ.png",
         "is_active": true
     },
-    "372": {
+    {
         "capital": "Dublin",
         "citizenship": "Irish",
         "country_code": "372",
@@ -2150,7 +2150,7 @@
         "flag": "IE.png",
         "is_active": true
     },
-    "376": {
+    {
         "capital": "(IL1)",
         "citizenship": "Israeli",
         "country_code": "376",
@@ -2170,7 +2170,7 @@
         "flag": "IL.png",
         "is_active": true
     },
-    "380": {
+    {
         "capital": "Rome",
         "citizenship": "Italian",
         "country_code": "380",
@@ -2190,7 +2190,7 @@
         "flag": "IT.png",
         "is_active": true
     },
-    "384": {
+    {
         "capital": "Yamoussoukro (CI1)",
         "citizenship": "Ivorian",
         "country_code": "384",
@@ -2210,7 +2210,7 @@
         "flag": "CI.png",
         "is_active": true
     },
-    "388": {
+    {
         "capital": "Kingston",
         "citizenship": "Jamaican",
         "country_code": "388",
@@ -2230,7 +2230,7 @@
         "flag": "JM.png",
         "is_active": true
     },
-    "392": {
+    {
         "capital": "Tokyo",
         "citizenship": "Japanese",
         "country_code": "392",
@@ -2250,7 +2250,7 @@
         "flag": "JP.png",
         "is_active": true
     },
-    "398": {
+    {
         "capital": "Astana",
         "citizenship": "Kazakh",
         "country_code": "398",
@@ -2270,7 +2270,7 @@
         "flag": "KZ.png",
         "is_active": true
     },
-    "400": {
+    {
         "capital": "Amman",
         "citizenship": "Jordanian",
         "country_code": "400",
@@ -2290,7 +2290,7 @@
         "flag": "JO.png",
         "is_active": true
     },
-    "404": {
+    {
         "capital": "Nairobi",
         "citizenship": "Kenyan",
         "country_code": "404",
@@ -2310,7 +2310,7 @@
         "flag": "KE.png",
         "is_active": true
     },
-    "408": {
+    {
         "capital": "Pyongyang",
         "citizenship": "North Korean",
         "country_code": "408",
@@ -2330,7 +2330,7 @@
         "flag": "KP.png",
         "is_active": true
     },
-    "410": {
+    {
         "capital": "Seoul",
         "citizenship": "South Korean",
         "country_code": "410",
@@ -2350,7 +2350,7 @@
         "flag": "KR.png",
         "is_active": true
     },
-    "414": {
+    {
         "capital": "Kuwait City",
         "citizenship": "Kuwaiti",
         "country_code": "414",
@@ -2370,7 +2370,7 @@
         "flag": "KW.png",
         "is_active": true
     },
-    "417": {
+    {
         "capital": "Bishkek",
         "citizenship": "Kyrgyz",
         "country_code": "417",
@@ -2390,7 +2390,7 @@
         "flag": "KG.png",
         "is_active": true
     },
-    "418": {
+    {
         "capital": "Vientiane",
         "citizenship": "Lao",
         "country_code": "418",
@@ -2410,7 +2410,7 @@
         "flag": "LA.png",
         "is_active": true
     },
-    "422": {
+    {
         "capital": "Beirut",
         "citizenship": "Lebanese",
         "country_code": "422",
@@ -2430,7 +2430,7 @@
         "flag": "LB.png",
         "is_active": true
     },
-    "426": {
+    {
         "capital": "Maseru",
         "citizenship": "Basotho",
         "country_code": "426",
@@ -2450,7 +2450,7 @@
         "flag": "LS.png",
         "is_active": true
     },
-    "428": {
+    {
         "capital": "Riga",
         "citizenship": "Latvian",
         "country_code": "428",
@@ -2470,7 +2470,7 @@
         "flag": "LV.png",
         "is_active": true
     },
-    "430": {
+    {
         "capital": "Monrovia",
         "citizenship": "Liberian",
         "country_code": "430",
@@ -2490,7 +2490,7 @@
         "flag": "LR.png",
         "is_active": true
     },
-    "434": {
+    {
         "capital": "Tripoli",
         "citizenship": "Libyan",
         "country_code": "434",
@@ -2510,7 +2510,7 @@
         "flag": "LY.png",
         "is_active": true
     },
-    "438": {
+    {
         "capital": "Vaduz",
         "citizenship": "Liechtensteiner",
         "country_code": "438",
@@ -2530,7 +2530,7 @@
         "flag": "LI.png",
         "is_active": true
     },
-    "440": {
+    {
         "capital": "Vilnius",
         "citizenship": "Lithuanian",
         "country_code": "440",
@@ -2550,7 +2550,7 @@
         "flag": "LT.png",
         "is_active": true
     },
-    "442": {
+    {
         "capital": "Luxembourg",
         "citizenship": "Luxembourger",
         "country_code": "442",
@@ -2570,7 +2570,7 @@
         "flag": "LU.png",
         "is_active": true
     },
-    "446": {
+    {
         "capital": "Macao (MO3)",
         "citizenship": "Macanese",
         "country_code": "446",
@@ -2590,7 +2590,7 @@
         "flag": "MO.png",
         "is_active": true
     },
-    "450": {
+    {
         "capital": "Antananarivo",
         "citizenship": "Malagasy",
         "country_code": "450",
@@ -2610,7 +2610,7 @@
         "flag": "MG.png",
         "is_active": true
     },
-    "454": {
+    {
         "capital": "Lilongwe",
         "citizenship": "Malawian",
         "country_code": "454",
@@ -2630,7 +2630,7 @@
         "flag": "MW.png",
         "is_active": true
     },
-    "458": {
+    {
         "capital": "Kuala Lumpur (MY1)",
         "citizenship": "Malaysian",
         "country_code": "458",
@@ -2650,7 +2650,7 @@
         "flag": "MY.png",
         "is_active": true
     },
-    "462": {
+    {
         "capital": "Mal\u00e9",
         "citizenship": "Maldivian",
         "country_code": "462",
@@ -2670,7 +2670,7 @@
         "flag": "MV.png",
         "is_active": true
     },
-    "466": {
+    {
         "capital": "Bamako",
         "citizenship": "Malian",
         "country_code": "466",
@@ -2690,7 +2690,7 @@
         "flag": "ML.png",
         "is_active": true
     },
-    "470": {
+    {
         "capital": "Valletta",
         "citizenship": "Maltese",
         "country_code": "470",
@@ -2710,7 +2710,7 @@
         "flag": "MT.png",
         "is_active": true
     },
-    "474": {
+    {
         "capital": "Fort-de-France",
         "citizenship": "Martinican",
         "country_code": "474",
@@ -2730,7 +2730,7 @@
         "flag": "MQ.png",
         "is_active": true
     },
-    "478": {
+    {
         "capital": "Nouakchott",
         "citizenship": "Mauritanian",
         "country_code": "478",
@@ -2750,7 +2750,7 @@
         "flag": "MR.png",
         "is_active": true
     },
-    "480": {
+    {
         "capital": "Port Louis",
         "citizenship": "Mauritian",
         "country_code": "480",
@@ -2770,7 +2770,7 @@
         "flag": "MU.png",
         "is_active": true
     },
-    "484": {
+    {
         "capital": "Mexico City",
         "citizenship": "Mexican",
         "country_code": "484",
@@ -2790,7 +2790,7 @@
         "flag": "MX.png",
         "is_active": true
     },
-    "492": {
+    {
         "capital": "Monaco",
         "citizenship": "Monegasque",
         "country_code": "492",
@@ -2810,7 +2810,7 @@
         "flag": "MC.png",
         "is_active": true
     },
-    "496": {
+    {
         "capital": "Ulan Bator",
         "citizenship": "Mongolian",
         "country_code": "496",
@@ -2830,7 +2830,7 @@
         "flag": "MN.png",
         "is_active": true
     },
-    "498": {
+    {
         "capital": "Chisinau",
         "citizenship": "Moldovan",
         "country_code": "498",
@@ -2850,7 +2850,7 @@
         "flag": "MD.png",
         "is_active": true
     },
-    "499": {
+    {
         "capital": "Podgorica",
         "citizenship": "Montenegrin",
         "country_code": "499",
@@ -2870,7 +2870,7 @@
         "flag": "ME.png",
         "is_active": true
     },
-    "500": {
+    {
         "capital": "Plymouth (MS2)",
         "citizenship": "Montserratian",
         "country_code": "500",
@@ -2890,7 +2890,7 @@
         "flag": "MS.png",
         "is_active": true
     },
-    "504": {
+    {
         "capital": "Rabat",
         "citizenship": "Moroccan",
         "country_code": "504",
@@ -2910,7 +2910,7 @@
         "flag": "MA.png",
         "is_active": true
     },
-    "508": {
+    {
         "capital": "Maputo",
         "citizenship": "Mozambican",
         "country_code": "508",
@@ -2930,7 +2930,7 @@
         "flag": "MZ.png",
         "is_active": true
     },
-    "512": {
+    {
         "capital": "Muscat",
         "citizenship": "Omani",
         "country_code": "512",
@@ -2950,7 +2950,7 @@
         "flag": "OM.png",
         "is_active": true
     },
-    "516": {
+    {
         "capital": "Windhoek",
         "citizenship": "Namibian",
         "country_code": "516",
@@ -2970,7 +2970,7 @@
         "flag": "NA.png",
         "is_active": true
     },
-    "520": {
+    {
         "capital": "Yaren",
         "citizenship": "Nauruan",
         "country_code": "520",
@@ -2990,7 +2990,7 @@
         "flag": "NR.png",
         "is_active": true
     },
-    "524": {
+    {
         "capital": "Kathmandu",
         "citizenship": "Nepalese",
         "country_code": "524",
@@ -3010,7 +3010,7 @@
         "flag": "NP.png",
         "is_active": true
     },
-    "528": {
+    {
         "capital": "Amsterdam (NL2)",
         "citizenship": "Dutch",
         "country_code": "528",
@@ -3030,7 +3030,7 @@
         "flag": "NL.png",
         "is_active": true
     },
-    "531": {
+    {
         "capital": "Willemstad",
         "citizenship": "Cura\u00e7aoan",
         "country_code": "531",
@@ -3046,7 +3046,7 @@
         "eea": false,
         "calling_code": "599"
     },
-    "533": {
+    {
         "capital": "Oranjestad",
         "citizenship": "Aruban",
         "country_code": "533",
@@ -3066,7 +3066,7 @@
         "flag": "AW.png",
         "is_active": true
     },
-    "534": {
+    {
         "capital": "Philipsburg",
         "citizenship": "Sint Maartener",
         "country_code": "534",
@@ -3082,7 +3082,7 @@
         "eea": false,
         "calling_code": "721"
     },
-    "535": {
+    {
         "citizenship": "of Bonaire, Sint Eustatius and Saba",
         "country_code": "535",
         "currency": "US dollar",
@@ -3096,7 +3096,7 @@
         "eea": false,
         "calling_code": "599"
     },
-    "540": {
+    {
         "capital": "Noum\u00e9a",
         "citizenship": "New Caledonian",
         "country_code": "540",
@@ -3116,7 +3116,7 @@
         "flag": "NC.png",
         "is_active": true
     },
-    "548": {
+    {
         "capital": "Port Vila",
         "citizenship": "Vanuatuan",
         "country_code": "548",
@@ -3136,7 +3136,7 @@
         "flag": "VU.png",
         "is_active": true
     },
-    "554": {
+    {
         "capital": "Wellington",
         "citizenship": "New Zealander",
         "country_code": "554",
@@ -3156,7 +3156,7 @@
         "flag": "NZ.png",
         "is_active": true
     },
-    "558": {
+    {
         "capital": "Managua",
         "citizenship": "Nicaraguan",
         "country_code": "558",
@@ -3176,7 +3176,7 @@
         "flag": "NI.png",
         "is_active": true
     },
-    "562": {
+    {
         "capital": "Niamey",
         "citizenship": "Nigerien",
         "country_code": "562",
@@ -3196,7 +3196,7 @@
         "flag": "NE.png",
         "is_active": true
     },
-    "566": {
+    {
         "capital": "Abuja",
         "citizenship": "Nigerian",
         "country_code": "566",
@@ -3216,7 +3216,7 @@
         "flag": "NG.png",
         "is_active": true
     },
-    "570": {
+    {
         "capital": "Alofi",
         "citizenship": "Niuean",
         "country_code": "570",
@@ -3236,7 +3236,7 @@
         "flag": "NU.png",
         "is_active": true
     },
-    "574": {
+    {
         "capital": "Kingston",
         "citizenship": "Norfolk Islander",
         "country_code": "574",
@@ -3256,7 +3256,7 @@
         "flag": "NF.png",
         "is_active": true
     },
-    "578": {
+    {
         "capital": "Oslo",
         "citizenship": "Norwegian",
         "country_code": "578",
@@ -3276,7 +3276,7 @@
         "flag": "NO.png",
         "is_active": true
     },
-    "580": {
+    {
         "capital": "Saipan",
         "citizenship": "Northern Mariana Islander",
         "country_code": "580",
@@ -3296,7 +3296,7 @@
         "flag": "MP.png",
         "is_active": true
     },
-    "581": {
+    {
         "capital": "United States Minor Outlying Islands",
         "citizenship": "of United States Minor Outlying Islands",
         "country_code": "581",
@@ -3316,7 +3316,7 @@
         "flag": "UM.png",
         "is_active": true
     },
-    "583": {
+    {
         "capital": "Palikir",
         "citizenship": "Micronesian",
         "country_code": "583",
@@ -3336,7 +3336,7 @@
         "flag": "FM.png",
         "is_active": true
     },
-    "584": {
+    {
         "capital": "Majuro",
         "citizenship": "Marshallese",
         "country_code": "584",
@@ -3356,7 +3356,7 @@
         "flag": "MH.png",
         "is_active": true
     },
-    "585": {
+    {
         "capital": "Melekeok",
         "citizenship": "Palauan",
         "country_code": "585",
@@ -3376,7 +3376,7 @@
         "flag": "PW.png",
         "is_active": true
     },
-    "586": {
+    {
         "capital": "Islamabad",
         "citizenship": "Pakistani",
         "country_code": "586",
@@ -3396,7 +3396,7 @@
         "flag": "PK.png",
         "is_active": true
     },
-    "591": {
+    {
         "capital": "Panama City",
         "citizenship": "Panamanian",
         "country_code": "591",
@@ -3416,7 +3416,7 @@
         "flag": "PA.png",
         "is_active": true
     },
-    "598": {
+    {
         "capital": "Port Moresby",
         "citizenship": "Papua New Guinean",
         "country_code": "598",
@@ -3436,7 +3436,7 @@
         "flag": "PG.png",
         "is_active": true
     },
-    "600": {
+    {
         "capital": "Asunci\u00f3n",
         "citizenship": "Paraguayan",
         "country_code": "600",
@@ -3456,7 +3456,7 @@
         "flag": "PY.png",
         "is_active": true
     },
-    "604": {
+    {
         "capital": "Lima",
         "citizenship": "Peruvian",
         "country_code": "604",
@@ -3476,7 +3476,7 @@
         "flag": "PE.png",
         "is_active": true
     },
-    "608": {
+    {
         "capital": "Manila",
         "citizenship": "Filipino",
         "country_code": "608",
@@ -3496,7 +3496,7 @@
         "flag": "PH.png",
         "is_active": true
     },
-    "612": {
+    {
         "capital": "Adamstown",
         "citizenship": "Pitcairner",
         "country_code": "612",
@@ -3516,7 +3516,7 @@
         "flag": "PN.png",
         "is_active": true
     },
-    "616": {
+    {
         "capital": "Warsaw",
         "citizenship": "Polish",
         "country_code": "616",
@@ -3536,7 +3536,7 @@
         "flag": "PL.png",
         "is_active": true
     },
-    "620": {
+    {
         "capital": "Lisbon",
         "citizenship": "Portuguese",
         "country_code": "620",
@@ -3556,7 +3556,7 @@
         "flag": "PT.png",
         "is_active": true
     },
-    "624": {
+    {
         "capital": "Bissau",
         "citizenship": "Guinea-Bissau national",
         "country_code": "624",
@@ -3576,7 +3576,7 @@
         "flag": "GW.png",
         "is_active": true
     },
-    "626": {
+    {
         "capital": "Dili",
         "citizenship": "East Timorese",
         "country_code": "626",
@@ -3596,7 +3596,7 @@
         "flag": "TL.png",
         "is_active": true
     },
-    "630": {
+    {
         "capital": "San Juan",
         "citizenship": "Puerto Rican",
         "country_code": "630",
@@ -3616,7 +3616,7 @@
         "flag": "PR.png",
         "is_active": true
     },
-    "634": {
+    {
         "capital": "Doha",
         "citizenship": "Qatari",
         "country_code": "634",
@@ -3636,7 +3636,7 @@
         "flag": "QA.png",
         "is_active": true
     },
-    "638": {
+    {
         "capital": "Saint-Denis",
         "citizenship": "Reunionese",
         "country_code": "638",
@@ -3656,7 +3656,7 @@
         "flag": "RE.png",
         "is_active": true
     },
-    "643": {
+    {
         "capital": "Moscow",
         "citizenship": "Russian",
         "country_code": "643",
@@ -3676,7 +3676,7 @@
         "flag": "RU.png",
         "is_active": true
     },
-    "646": {
+    {
         "capital": "Kigali",
         "citizenship": "Rwandan; Rwandese",
         "country_code": "646",
@@ -3696,7 +3696,7 @@
         "flag": "RW.png",
         "is_active": true
     },
-    "652": {
+    {
         "capital": "Gustavia",
         "citizenship": "of Saint Barth\u00e9lemy",
         "country_code": "652",
@@ -3712,7 +3712,7 @@
         "eea": false,
         "calling_code": "590"
     },
-    "654": {
+    {
         "capital": "Jamestown",
         "citizenship": "Saint Helenian",
         "country_code": "654",
@@ -3732,7 +3732,7 @@
         "flag": "SH.png",
         "is_active": true
     },
-    "659": {
+    {
         "capital": "Basseterre",
         "citizenship": "Kittsian; Nevisian",
         "country_code": "659",
@@ -3752,7 +3752,7 @@
         "flag": "KN.png",
         "is_active": true
     },
-    "660": {
+    {
         "capital": "The Valley",
         "citizenship": "Anguillan",
         "country_code": "660",
@@ -3772,7 +3772,7 @@
         "flag": "AI.png",
         "is_active": true
     },
-    "662": {
+    {
         "capital": "Castries",
         "citizenship": "Saint Lucian",
         "country_code": "662",
@@ -3792,7 +3792,7 @@
         "flag": "LC.png",
         "is_active": true
     },
-    "663": {
+    {
         "capital": "Marigot",
         "citizenship": "of Saint Martin",
         "country_code": "663",
@@ -3808,7 +3808,7 @@
         "eea": false,
         "calling_code": "590"
     },
-    "666": {
+    {
         "capital": "Saint-Pierre",
         "citizenship": "St-Pierrais; Miquelonnais",
         "country_code": "666",
@@ -3828,7 +3828,7 @@
         "flag": "PM.png",
         "is_active": true
     },
-    "670": {
+    {
         "capital": "Kingstown",
         "citizenship": "Vincentian",
         "country_code": "670",
@@ -3848,7 +3848,7 @@
         "flag": "VC.png",
         "is_active": true
     },
-    "674": {
+    {
         "capital": "San Marino",
         "citizenship": "San Marinese",
         "country_code": "674",
@@ -3868,7 +3868,7 @@
         "flag": "SM.png",
         "is_active": true
     },
-    "678": {
+    {
         "capital": "S\u00e3o Tom\u00e9",
         "citizenship": "S\u00e3o Tom\u00e9an",
         "country_code": "678",
@@ -3888,7 +3888,7 @@
         "flag": "ST.png",
         "is_active": true
     },
-    "682": {
+    {
         "capital": "Riyadh",
         "citizenship": "Saudi Arabian",
         "country_code": "682",
@@ -3908,7 +3908,7 @@
         "flag": "SA.png",
         "is_active": true
     },
-    "686": {
+    {
         "capital": "Dakar",
         "citizenship": "Senegalese",
         "country_code": "686",
@@ -3928,7 +3928,7 @@
         "flag": "SN.png",
         "is_active": true
     },
-    "688": {
+    {
         "capital": "Belgrade",
         "citizenship": "Serb",
         "country_code": "688",
@@ -3944,7 +3944,7 @@
         "eea": false,
         "calling_code": "381"
     },
-    "690": {
+    {
         "capital": "Victoria",
         "citizenship": "Seychellois",
         "country_code": "690",
@@ -3964,7 +3964,7 @@
         "flag": "SC.png",
         "is_active": true
     },
-    "694": {
+    {
         "capital": "Freetown",
         "citizenship": "Sierra Leonean",
         "country_code": "694",
@@ -3984,7 +3984,7 @@
         "flag": "SL.png",
         "is_active": true
     },
-    "702": {
+    {
         "capital": "Singapore",
         "citizenship": "Singaporean",
         "country_code": "702",
@@ -4004,7 +4004,7 @@
         "flag": "SG.png",
         "is_active": true
     },
-    "703": {
+    {
         "capital": "Bratislava",
         "citizenship": "Slovak",
         "country_code": "703",
@@ -4024,7 +4024,7 @@
         "flag": "SK.png",
         "is_active": true
     },
-    "704": {
+    {
         "capital": "Hanoi",
         "citizenship": "Vietnamese",
         "country_code": "704",
@@ -4044,7 +4044,7 @@
         "flag": "VN.png",
         "is_active": true
     },
-    "705": {
+    {
         "capital": "Ljubljana",
         "citizenship": "Slovene",
         "country_code": "705",
@@ -4064,7 +4064,7 @@
         "flag": "SI.png",
         "is_active": true
     },
-    "706": {
+    {
         "capital": "Mogadishu",
         "citizenship": "Somali",
         "country_code": "706",
@@ -4084,7 +4084,7 @@
         "flag": "SO.png",
         "is_active": true
     },
-    "710": {
+    {
         "capital": "Pretoria (ZA1)",
         "citizenship": "South African",
         "country_code": "710",
@@ -4104,7 +4104,7 @@
         "flag": "ZA.png",
         "is_active": true
     },
-    "716": {
+    {
         "capital": "Harare",
         "citizenship": "Zimbabwean",
         "country_code": "716",
@@ -4124,7 +4124,7 @@
         "flag": "ZW.png",
         "is_active": true
     },
-    "724": {
+    {
         "capital": "Madrid",
         "citizenship": "Spaniard",
         "country_code": "724",
@@ -4144,7 +4144,7 @@
         "flag": "ES.png",
         "is_active": true
     },
-    "728": {
+    {
         "capital": "Juba",
         "citizenship": "South Sudanese",
         "country_code": "728",
@@ -4160,7 +4160,7 @@
         "eea": false,
         "calling_code": "211"
     },
-    "729": {
+    {
         "capital": "Khartoum",
         "citizenship": "Sudanese",
         "country_code": "729",
@@ -4176,7 +4176,7 @@
         "eea": false,
         "calling_code": "249"
     },
-    "732": {
+    {
         "capital": "Al aaiun",
         "citizenship": "Sahrawi",
         "country_code": "732",
@@ -4196,7 +4196,7 @@
         "flag": "EH.png",
         "is_active": true
     },
-    "740": {
+    {
         "capital": "Paramaribo",
         "citizenship": "Surinamese",
         "country_code": "740",
@@ -4216,7 +4216,7 @@
         "flag": "SR.png",
         "is_active": true
     },
-    "744": {
+    {
         "capital": "Longyearbyen",
         "citizenship": "of Svalbard",
         "country_code": "744",
@@ -4236,7 +4236,7 @@
         "flag": "SJ.png",
         "is_active": true
     },
-    "748": {
+    {
         "capital": "Mbabane",
         "citizenship": "Swazi",
         "country_code": "748",
@@ -4256,7 +4256,7 @@
         "flag": "SZ.png",
         "is_active": true
     },
-    "752": {
+    {
         "capital": "Stockholm",
         "citizenship": "Swedish",
         "country_code": "752",
@@ -4276,7 +4276,7 @@
         "flag": "SE.png",
         "is_active": true
     },
-    "756": {
+    {
         "capital": "Berne",
         "citizenship": "Swiss",
         "country_code": "756",
@@ -4296,7 +4296,7 @@
         "flag": "CH.png",
         "is_active": true
     },
-    "760": {
+    {
         "capital": "Damascus",
         "citizenship": "Syrian",
         "country_code": "760",
@@ -4316,7 +4316,7 @@
         "flag": "SY.png",
         "is_active": true
     },
-    "762": {
+    {
         "capital": "Dushanbe",
         "citizenship": "Tajik",
         "country_code": "762",
@@ -4336,7 +4336,7 @@
         "flag": "TJ.png",
         "is_active": true
     },
-    "764": {
+    {
         "capital": "Bangkok",
         "citizenship": "Thai",
         "country_code": "764",
@@ -4356,7 +4356,7 @@
         "flag": "TH.png",
         "is_active": true
     },
-    "768": {
+    {
         "capital": "Lom\u00e9",
         "citizenship": "Togolese",
         "country_code": "768",
@@ -4376,7 +4376,7 @@
         "flag": "TG.png",
         "is_active": true
     },
-    "772": {
+    {
         "capital": "(TK2)",
         "citizenship": "Tokelauan",
         "country_code": "772",
@@ -4396,7 +4396,7 @@
         "flag": "TK.png",
         "is_active": true
     },
-    "776": {
+    {
         "capital": "Nuku\u2019alofa",
         "citizenship": "Tongan",
         "country_code": "776",
@@ -4416,7 +4416,7 @@
         "flag": "TO.png",
         "is_active": true
     },
-    "780": {
+    {
         "capital": "Port of Spain",
         "citizenship": "Trinidadian; Tobagonian",
         "country_code": "780",
@@ -4436,7 +4436,7 @@
         "flag": "TT.png",
         "is_active": true
     },
-    "784": {
+    {
         "capital": "Abu Dhabi",
         "citizenship": "Emirian",
         "country_code": "784",
@@ -4456,7 +4456,7 @@
         "flag": "AE.png",
         "is_active": true
     },
-    "788": {
+    {
         "capital": "Tunis",
         "citizenship": "Tunisian",
         "country_code": "788",
@@ -4476,7 +4476,7 @@
         "flag": "TN.png",
         "is_active": true
     },
-    "792": {
+    {
         "capital": "Ankara",
         "citizenship": "Turk",
         "country_code": "792",
@@ -4496,7 +4496,7 @@
         "flag": "TR.png",
         "is_active": true
     },
-    "795": {
+    {
         "capital": "Ashgabat",
         "citizenship": "Turkmen",
         "country_code": "795",
@@ -4516,7 +4516,7 @@
         "flag": "TM.png",
         "is_active": true
     },
-    "796": {
+    {
         "capital": "Cockburn Town",
         "citizenship": "Turks and Caicos Islander",
         "country_code": "796",
@@ -4536,7 +4536,7 @@
         "flag": "TC.png",
         "is_active": true
     },
-    "798": {
+    {
         "capital": "Funafuti",
         "citizenship": "Tuvaluan",
         "country_code": "798",
@@ -4556,7 +4556,7 @@
         "flag": "TV.png",
         "is_active": true
     },
-    "800": {
+    {
         "capital": "Kampala",
         "citizenship": "Ugandan",
         "country_code": "800",
@@ -4576,7 +4576,7 @@
         "flag": "UG.png",
         "is_active": true
     },
-    "804": {
+    {
         "capital": "Kiev",
         "citizenship": "Ukrainian",
         "country_code": "804",
@@ -4596,7 +4596,7 @@
         "flag": "UA.png",
         "is_active": true
     },
-    "807": {
+    {
         "capital": "Skopje",
         "citizenship": "of the former Yugoslav Republic of Macedonia",
         "country_code": "807",
@@ -4616,7 +4616,7 @@
         "flag": "MK.png",
         "is_active": true
     },
-    "818": {
+    {
         "capital": "Cairo",
         "citizenship": "Egyptian",
         "country_code": "818",
@@ -4636,7 +4636,7 @@
         "flag": "EG.png",
         "is_active": true
     },
-    "826": {
+    {
         "capital": "London",
         "citizenship": "British",
         "country_code": "826",
@@ -4656,7 +4656,7 @@
         "flag": "GB.png",
         "is_active": true
     },
-    "831": {
+    {
         "capital": "St Peter Port",
         "citizenship": "of Guernsey",
         "country_code": "831",
@@ -4672,7 +4672,7 @@
         "eea": false,
         "calling_code": "44"
     },
-    "832": {
+    {
         "capital": "St Helier",
         "citizenship": "of Jersey",
         "country_code": "832",
@@ -4688,7 +4688,7 @@
         "eea": false,
         "calling_code": "44"
     },
-    "833": {
+    {
         "capital": "Douglas",
         "citizenship": "Manxman; Manxwoman",
         "country_code": "833",
@@ -4704,7 +4704,7 @@
         "eea": false,
         "calling_code": "44"
     },
-    "834": {
+    {
         "capital": "Dodoma (TZ1)",
         "citizenship": "Tanzanian",
         "country_code": "834",
@@ -4724,7 +4724,7 @@
         "flag": "TZ.png",
         "is_active": true
     },
-    "840": {
+    {
         "capital": "Washington DC",
         "citizenship": "American",
         "country_code": "840",
@@ -4744,7 +4744,7 @@
         "flag": "US.png",
         "is_active": true
     },
-    "850": {
+    {
         "capital": "Charlotte Amalie",
         "citizenship": "US Virgin Islander",
         "country_code": "850",
@@ -4764,7 +4764,7 @@
         "flag": "VI.png",
         "is_active": true
     },
-    "854": {
+    {
         "capital": "Ouagadougou",
         "citizenship": "Burkinabe",
         "country_code": "854",
@@ -4784,7 +4784,7 @@
         "flag": "BF.png",
         "is_active": true
     },
-    "858": {
+    {
         "capital": "Montevideo",
         "citizenship": "Uruguayan",
         "country_code": "858",
@@ -4804,7 +4804,7 @@
         "flag": "UY.png",
         "is_active": true
     },
-    "860": {
+    {
         "capital": "Tashkent",
         "citizenship": "Uzbek",
         "country_code": "860",
@@ -4824,7 +4824,7 @@
         "flag": "UZ.png",
         "is_active": true
     },
-    "862": {
+    {
         "capital": "Caracas",
         "citizenship": "Venezuelan",
         "country_code": "862",
@@ -4844,7 +4844,7 @@
         "flag": "VE.png",
         "is_active": true
     },
-    "876": {
+    {
         "capital": "Mata-Utu",
         "citizenship": "Wallisian; Futunan; Wallis and Futuna Islander",
         "country_code": "876",
@@ -4864,7 +4864,7 @@
         "flag": "WF.png",
         "is_active": true
     },
-    "882": {
+    {
         "capital": "Apia",
         "citizenship": "Samoan",
         "country_code": "882",
@@ -4884,7 +4884,7 @@
         "flag": "WS.png",
         "is_active": true
     },
-    "887": {
+    {
         "capital": "San\u2019a",
         "citizenship": "Yemenite",
         "country_code": "887",
@@ -4904,7 +4904,7 @@
         "flag": "YE.png",
         "is_active": true
     },
-    "894": {
+    {
         "capital": "Lusaka",
         "citizenship": "Zambian",
         "country_code": "894",
