@@ -1,4 +1,4 @@
-{
+[
     {
         "capital": "Bucharest",
         "citizenship": "Romanian",
@@ -4924,4 +4924,4 @@
         "flag": "ZM.png",
         "is_active": true
     }
-}
+]
