@@ -3,7 +3,6 @@
 namespace LaravelEnso\Countries\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Addresses\Models\Address;
 use LaravelEnso\Countries\Http\Resources\Country as Resource;
 use LaravelEnso\Countries\Models\Country;
 use LaravelEnso\Select\Traits\OptionsBuilder;
