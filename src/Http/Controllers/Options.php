@@ -11,9 +11,12 @@ class Options extends Controller
 {
     use OptionsBuilder;
 
-    protected $model = Country::class;
-
     protected $resource = Resource::class;
 
     protected $queryAttributes = ['name', 'iso_3166_3'];
+
+    public function query()
+    {
+        return Country::active();
+    }
 }

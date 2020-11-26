@@ -12,9 +12,9 @@ class CountryFactory extends Factory
     public function definition()
     {
         return [
-            'name' => $faker->country,
-            'iso_3166_2' => $faker->countryCode,
-            'iso_3166_3' => $faker->countryISOAlpha3,
+            'name' => $this->faker->country,
+            'iso_3166_2' => $this->faker->countryCode,
+            'iso_3166_3' => $this->faker->countryISOAlpha3,
             'capital' => null,
             'citizenship' => null,
             'country_code' => null,
@@ -29,6 +29,7 @@ class CountryFactory extends Factory
             'eea' => null,
             'calling_code' => null,
             'flag' => null,
+            'is_active' => null,
         ];
     }
 }
