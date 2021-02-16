@@ -15,6 +15,8 @@ class Country extends Model
 
     protected $guarded = ['id'];
 
+    protected array $rememberableKeys = ['id', 'iso_3166_2'];
+
     public function regionLabel(): string
     {
         switch ($this->id) {
