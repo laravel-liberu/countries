@@ -19,13 +19,13 @@ class Country extends Model
 
     public function regionLabel(): string
     {
-        switch ($this->id) {
-            case 184:
-                return 'County';
-            case 240:
-                return 'State';
+        switch ($this->name) {
+            case 'Romania':
+                return __('County');
+            case 'United States':
+                return __('State');
             default:
-                return 'Region';
+                return __('Region');
         }
     }
 }
