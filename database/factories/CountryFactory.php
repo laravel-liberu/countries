@@ -24,12 +24,12 @@ class CountryFactory extends Factory
             'currency_symbol' => null,
             'currency_decimals' => null,
             'full_name' => null,
-            'region_code' => null,
-            'sub_region_code' => null,
-            'eea' => null,
+            'region_code' => $this->faker->numberBetween(2, 150),
+            'sub_region_code' => $this->faker->numberBetween(15, 151),
+            'eea' => $this->faker->numberBetween(0, 1),
             'calling_code' => null,
             'flag' => null,
-            'is_active' => null,
+            'is_active' => $this->faker->boolean,
         ];
     }
 }
