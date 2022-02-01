@@ -14,8 +14,8 @@ class AppServiceProvider extends ServiceProvider
 
     private function load()
     {
-        $this->loadRoutesFrom(__DIR__ . '/../routes/api.php');
-        $this->loadMigrationsFrom(__DIR__ . '/../database/migrations');
+        $this->loadRoutesFrom(__DIR__.'/../routes/api.php');
+        $this->loadMigrationsFrom(__DIR__.'/../database/migrations');
 
         return $this;
     }
@@ -23,7 +23,7 @@ class AppServiceProvider extends ServiceProvider
     private function publish()
     {
         $this->publishes([
-            __DIR__ . '/../database/seeders' => database_path('seeders'),
+            __DIR__.'/../database/seeders' => database_path('seeders'),
         ], ['countries-seeder', 'enso-seeders']);
     }
 }
