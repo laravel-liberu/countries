@@ -6,9 +6,9 @@
 [![Total Downloads](https://poser.pugx.org/laravel-enso/countries/downloads)](https://packagist.org/packages/laravel-enso/countries)
 [![Latest Stable Version](https://poser.pugx.org/laravel-enso/countries/version)](https://packagist.org/packages/laravel-enso/countries)
 
-Countries manager for [Laravel Enso](https://github.com/laravel-enso/Enso)
+Countries manager for [Laravel Liberu](https://github.com/laravel-enso/Liberu)
 
-This package works exclusively within the [Enso](https://github.com/laravel-enso/Enso) ecosystem.
+This package works exclusively within the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
 For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
 
