@@ -8,7 +8,7 @@ use LaravelEnso\Helpers\Services\JsonReader;
 
 class CountrySeeder extends Seeder
 {
-    private const Json = 'vendor/laravel-enso/countries/database/countries.json';
+    private const Json = 'vendor/laravel-liberu/countries/database/countries.json';
 
     public function run()
     {
