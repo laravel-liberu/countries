@@ -24,6 +24,6 @@ class AppServiceProvider extends ServiceProvider
     {
         $this->publishes([
             __DIR__.'/../database/seeders' => database_path('seeders'),
-        ], ['countries-seeder', 'enso-seeders']);
+        ], ['countries-seeder', 'liberu-seeders']);
     }
 }

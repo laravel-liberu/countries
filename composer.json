@@ -5,7 +5,7 @@
         "laravel-liberu",
         "countries",
         "manager",
-        "enso"
+        "liberu"
     ],
     "type": "library",
     "require": {
