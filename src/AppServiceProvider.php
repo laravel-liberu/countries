@@ -1,6 +1,6 @@
 <?php
 
-namespace LaravelEnso\Countries;
+namespace LaravelLiberu\Countries;
 
 use Illuminate\Support\ServiceProvider;
 

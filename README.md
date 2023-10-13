@@ -10,7 +10,7 @@ Countries manager for [Laravel Liberu](https://github.com/laravel-enso/Liberu)
 
 This package works exclusively within the [Liberu](https://github.com/laravel-enso/Liberu) ecosystem.
 
-For live examples and demos, you may visit [laravel-enso.com](https://www.laravel-enso.com)
+For live examples and demos, you may visit [liberu.co.uk](https://www.liberu.co.uk)
 
 ## Installation
 
@@ -20,7 +20,7 @@ For live examples and demos, you may visit [laravel-enso.com](https://www.larave
 
 ### Configuration & Usage
 
-Be sure to check out the full documentation for this package available at [docs.laravel-enso.com](https://docs.laravel-enso.com/backend/countries-manager.html)
+Be sure to check out the full documentation for this package available at [docs.liberu.co.uk](https://docs.liberu.co.uk/backend/countries-manager.html)
 
 ### Contributions
 

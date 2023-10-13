@@ -1,9 +1,9 @@
 <?php
 
-namespace LaravelEnso\Countries\Database\Factories;
+namespace LaravelLiberu\Countries\Database\Factories;
 
 use Illuminate\Database\Eloquent\Factories\Factory;
-use LaravelEnso\Countries\Models\Country;
+use LaravelLiberu\Countries\Models\Country;
 
 class CountryFactory extends Factory
 {

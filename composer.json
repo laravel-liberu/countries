@@ -33,15 +33,15 @@
     ],
     "autoload": {
         "psr-4": {
-            "LaravelEnso\\Countries\\": "src/",
-            "LaravelEnso\\Countries\\Database\\Seeders\\": "database/seeders/",
-            "LaravelEnso\\Countries\\Database\\Factories\\": "database/factories/"
+            "LaravelLiberu\\Countries\\": "src/",
+            "LaravelLiberu\\Countries\\Database\\Seeders\\": "database/seeders/",
+            "LaravelLiberu\\Countries\\Database\\Factories\\": "database/factories/"
         }
     },
     "extra": {
         "laravel": {
             "providers": [
-                "LaravelEnso\\Countries\\AppServiceProvider"
+                "LaravelLiberu\\Countries\\AppServiceProvider"
             ],
             "aliases": {}
         }

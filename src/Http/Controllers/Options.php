@@ -1,11 +1,11 @@
 <?php
 
-namespace LaravelEnso\Countries\Http\Controllers;
+namespace LaravelLiberu\Countries\Http\Controllers;
 
 use Illuminate\Routing\Controller;
-use LaravelEnso\Countries\Http\Resources\Country as Resource;
-use LaravelEnso\Countries\Models\Country;
-use LaravelEnso\Select\Traits\OptionsBuilder;
+use LaravelLiberu\Countries\Http\Resources\Country as Resource;
+use LaravelLiberu\Countries\Models\Country;
+use LaravelLiberu\Select\Traits\OptionsBuilder;
 
 class Options extends Controller
 {

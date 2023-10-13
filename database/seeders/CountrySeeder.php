@@ -1,10 +1,10 @@
 <?php
 
-namespace LaravelEnso\Countries\Database\Seeders;
+namespace LaravelLiberu\Countries\Database\Seeders;
 
 use Illuminate\Database\Seeder;
-use LaravelEnso\Countries\Models\Country;
-use LaravelEnso\Helpers\Services\JsonReader;
+use LaravelLiberu\Countries\Models\Country;
+use LaravelLiberu\Helpers\Services\JsonReader;
 
 class CountrySeeder extends Seeder
 {
